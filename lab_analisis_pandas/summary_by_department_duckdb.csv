@@ -1,0 +1,541 @@
+department,avg_training_score,promoted_count,birthday,complete_gender
+Sales & Marketing,50.29530201342282,39,1991,Masculino
+Sales & Marketing,50.71617161716171,26,1986,Masculino
+Operations,60.333333333333336,19,1992,Masculino
+Technology,79.63529411764706,10,1986,Masculino
+Procurement,69.64516129032258,11,1990,Masculino
+Procurement,69.97169811320755,4,1988,Masculino
+Analytics,84.85714285714286,1,1981,Masculino
+Technology,79.44155844155844,8,1985,Masculino
+Sales & Marketing,50.486111111111114,6,1994,Femenino
+Procurement,69.22727272727273,6,1985,Masculino
+Sales & Marketing,50.17307692307692,10,1975,Masculino
+Technology,78.25,1,1978,Masculino
+Operations,60.82959641255606,30,1990,Masculino
+R&D,84.06060606060606,1,1989,Masculino
+HR,49.6,0,1997,Femenino
+Operations,60.854838709677416,7,1981,Femenino
+Operations,60.30569948186528,25,1987,Masculino
+Sales & Marketing,49.58278145695364,5,1979,Masculino
+Sales & Marketing,50.04810996563574,21,1994,Masculino
+HR,48.31578947368421,1,1988,Femenino
+Sales & Marketing,49.75471698113208,3,1986,Femenino
+Technology,79.88805970149254,13,1993,Masculino
+Procurement,70.1743119266055,19,1990,Femenino
+Analytics,85.04597701149426,6,1996,Masculino
+Operations,60.12865497076023,15,1985,Masculino
+Operations,60.136054421768705,15,1986,Femenino
+Operations,60.53333333333333,8,1995,Femenino
+Operations,61.18539325842696,24,1992,Femenino
+Procurement,69.97619047619048,2,1981,Masculino
+Analytics,84.91666666666667,18,1992,Masculino
+Operations,59.979274611398964,21,1990,Femenino
+Operations,59.83870967741935,5,1975,Masculino
+Procurement,70.33695652173913,8,1988,Femenino
+Technology,79.44444444444444,1,1987,Femenino
+Technology,79.41666666666667,9,1982,Masculino
+Procurement,68.8695652173913,1,1971,Femenino
+Sales & Marketing,50.70754716981132,11,1991,Femenino
+Finance,60.28333333333333,7,1993,Masculino
+Operations,61.10144927536232,13,1986,Masculino
+Procurement,68.94444444444444,2,1967,Femenino
+Operations,60.82911392405063,20,1993,Femenino
+Analytics,84.8,0,1975,Masculino
+Technology,79.78787878787878,9,1994,Femenino
+Sales & Marketing,50.13333333333333,2,1983,Femenino
+Operations,59.72,6,1977,Masculino
+Operations,61.89473684210526,1,1967,Femenino
+Operations,60.34782608695652,2,1972,Femenino
+Operations,60.386138613861384,7,1980,Masculino
+Sales & Marketing,50.18487394957983,19,1983,Masculino
+Operations,60.36888888888889,26,1991,Masculino
+Operations,60.358695652173914,21,1991,Femenino
+Sales & Marketing,49.5,0,1977,Femenino
+Operations,61.228070175438596,9,1985,Femenino
+Procurement,69.38235294117646,1,1982,Masculino
+Operations,60.492537313432834,17,1989,Femenino
+Procurement,69.96153846153847,3,1979,Masculino
+Operations,60.261538461538464,18,1987,Femenino
+HR,50.5,0,1976,Femenino
+Sales & Marketing,49.15625,3,1973,Masculino
+Procurement,70.40458015267176,20,1992,Femenino
+Technology,80.5,3,1966,Femenino
+Technology,79.4888888888889,4,1984,Femenino
+Operations,59.63636363636363,2,1977,Femenino
+Operations,60.61946902654867,13,1981,Masculino
+Finance,60.54545454545455,1,1993,Femenino
+Technology,79.75,13,1994,Masculino
+Technology,80.03370786516854,13,1987,Masculino
+Operations,60.61538461538461,2,1996,Femenino
+Sales & Marketing,50.67785234899329,21,1987,Masculino
+HR,50.5,1,1972,Femenino
+Operations,60.04651162790697,17,1989,Masculino
+Procurement,71.52,4,1974,Femenino
+Legal,59.25,1,1992,Masculino
+Technology,79.28571428571429,2,1976,Femenino
+Sales & Marketing,50.2,6,1976,Masculino
+Legal,59.857142857142854,0,1993,Masculino
+Technology,80.12658227848101,6,1993,Femenino
+Procurement,69.23529411764706,2,1981,Femenino
+Technology,80.175,2,1975,Masculino
+Technology,80.41935483870968,7,1984,Masculino
+Procurement,70.0875,10,1994,Femenino
+Operations,59.42857142857143,1,1972,Masculino
+Procurement,69.484375,11,1992,Masculino
+Technology,79.91666666666667,0,1982,Femenino
+Procurement,69.26666666666667,5,1985,Femenino
+Sales & Marketing,50.84848484848485,2,1965,Masculino
+Operations,61.08571428571429,5,1974,Femenino
+HR,51.0,2,1982,Femenino
+Sales & Marketing,50.114754098360656,2,1987,Femenino
+Technology,79.14285714285714,1,1975,Femenino
+Technology,79.1,4,1976,Masculino
+Technology,79.91836734693878,5,1986,Femenino
+Technology,79.52380952380952,4,1981,Masculino
+Operations,59.76923076923077,3,1978,Femenino
+Operations,60.673469387755105,6,1979,Femenino
+Procurement,70.76,3,1979,Femenino
+Analytics,84.80412371134021,10,1988,Masculino
+Finance,57.5,0,1973,Femenino
+Procurement,70.76470588235294,8,1994,Masculino
+Operations,60.15686274509804,22,1993,Masculino
+Sales & Marketing,50.529411764705884,2,1966,Masculino
+Operations,62.0,4,1976,Femenino
+Operations,59.916666666666664,1,1997,Masculino
+Procurement,69.35,1,1967,Masculino
+Procurement,70.08333333333333,1,1971,Masculino
+Procurement,69.0,2,1965,Masculino
+Sales & Marketing,50.07843137254902,3,1997,Masculino
+Operations,60.69230769230769,6,1979,Masculino
+Legal,63.375,1,1971,Masculino
+Operations,59.93650793650794,4,1980,Femenino
+HR,49.4,0,1997,Masculino
+Technology,80.54545454545455,0,1965,Femenino
+HR,48.916666666666664,0,1983,Femenino
+Finance,59.9,2,1997,Masculino
+Operations,60.0,0,1999,Femenino
+HR,52.4,0,1974,Femenino
+Legal,60.0,0,1992,Femenino
+R&D,85.0,0,1986,Masculino
+HR,50.1578947368421,1,1990,Femenino
+Analytics,84.68141592920354,3,1989,Masculino
+Sales & Marketing,53.0,1,1976,Femenino
+Analytics,84.69620253164557,3,1987,Masculino
+HR,48.72727272727273,3,1993,Masculino
+Analytics,83.33333333333333,1,1974,Masculino
+Operations,60.132075471698116,7,1974,Masculino
+Legal,61.0,0,1976,Masculino
+Analytics,84.35714285714286,2,1996,Femenino
+HR,51.13333333333333,1,1976,Masculino
+Operations,61.96153846153846,3,1971,Masculino
+Analytics,85.28260869565217,10,1997,Masculino
+Operations,59.829268292682926,2,1975,Femenino
+HR,48.785714285714285,1,1975,Masculino
+Technology,79.36363636363636,0,1973,Femenino
+HR,49.5609756097561,3,1990,Masculino
+Operations,59.06666666666667,1,1966,Masculino
+Legal,58.6875,0,1989,Masculino
+Procurement,69.69047619047619,2,1982,Femenino
+Technology,80.10526315789474,1,1997,Masculino
+R&D,84.125,1,1994,Masculino
+Analytics,84.14285714285714,2,1965,Masculino
+Operations,61.411764705882355,2,1967,Masculino
+Sales & Marketing,50.05882352941177,1,1997,Femenino
+Legal,58.857142857142854,0,1981,Masculino
+HR,49.55555555555556,0,1996,Femenino
+Operations,60.78333333333333,4,1976,Masculino
+Technology,79.75,1,1965,Masculino
+Technology,78.95652173913044,1,1981,Femenino
+Operations,60.95,3,1996,Masculino
+Operations,59.54651162790697,8,1995,Masculino
+Legal,59.6875,0,1987,Masculino
+R&D,87.0,0,1989,Femenino
+HR,49.93333333333333,0,1996,Masculino
+Sales & Marketing,49.46153846153846,0,1975,Femenino
+Operations,59.89705882352941,5,1978,Masculino
+Sales & Marketing,50.470588235294116,10,1977,Masculino
+Finance,59.916666666666664,0,1988,Femenino
+Procurement,70.16666666666667,10,1983,Masculino
+Technology,79.56,3,1985,Femenino
+Procurement,69.69565217391305,4,1973,Masculino
+Procurement,70.0,2,1970,Masculino
+Finance,60.01923076923077,3,1989,Masculino
+Procurement,69.91304347826087,1,1970,Femenino
+HR,50.13793103448276,1,1988,Masculino
+Procurement,68.9047619047619,0,1966,Femenino
+Finance,58.4,0,1977,Femenino
+Sales & Marketing,51.31428571428572,3,1967,Masculino
+Procurement,70.125,1,1974,Masculino
+Sales & Marketing,50.34782608695652,0,1965,Femenino
+HR,50.13793103448276,2,1993,Femenino
+Legal,59.05263157894737,0,1991,Masculino
+Technology,80.6,1,1978,Femenino
+Finance,59.666666666666664,1,1985,Femenino
+Procurement,70.04545454545455,2,1983,Femenino
+Finance,58.42857142857143,4,1992,Femenino
+Procurement,72.0,1,1965,Femenino
+Finance,60.56603773584906,10,1992,Masculino
+Finance,58.5,0,1973,Masculino
+Finance,60.09090909090909,0,1979,Masculino
+R&D,84.46666666666667,0,1991,Masculino
+Sales & Marketing,49.4,1,1973,Femenino
+Analytics,83.97058823529412,4,1982,Masculino
+Finance,59.52,0,1985,Masculino
+Finance,59.714285714285715,0,1994,Femenino
+R&D,83.76470588235294,1,1987,Masculino
+HR,50.0,0,1984,Femenino
+Finance,58.666666666666664,0,1969,Masculino
+Finance,60.31707317073171,5,1994,Masculino
+Finance,58.857142857142854,0,1989,Femenino
+HR,50.22222222222222,0,1980,Masculino
+Operations,61.714285714285715,0,1998,Femenino
+Technology,79.0,2,1973,Masculino
+HR,51.0,0,1974,Masculino
+Legal,61.75,0,1989,Femenino
+Operations,60.19230769230769,2,1971,Femenino
+Procurement,70.73076923076923,4,1973,Femenino
+Finance,60.57142857142857,2,1988,Masculino
+Analytics,85.28571428571429,1,1992,Femenino
+Technology,79.9375,1,1966,Masculino
+HR,48.2,0,1967,Masculino
+R&D,83.66666666666667,0,1981,Masculino
+Analytics,85.33333333333333,3,1966,Masculino
+HR,52.18181818181818,1,1984,Masculino
+HR,50.857142857142854,0,1980,Femenino
+HR,49.0,0,1969,Masculino
+R&D,85.0,0,1980,Masculino
+Legal,61.666666666666664,0,1973,Masculino
+Analytics,84.0,3,1997,Femenino
+Finance,60.5,0,1978,Femenino
+Finance,60.875,0,1978,Masculino
+Technology,80.07142857142857,1,1997,Femenino
+Legal,60.333333333333336,0,1994,Femenino
+Sales & Marketing,48.166666666666664,0,1967,Femenino
+Operations,60.18181818181818,1,1966,Femenino
+R&D,87.0,0,1979,Masculino
+Finance,60.0,0,1998,Masculino
+Analytics,87.5,1,1988,Femenino
+Sales & Marketing,49.785714285714285,0,1979,Femenino
+Legal,59.44444444444444,1,1994,Masculino
+Analytics,85.16666666666667,1,1989,Femenino
+Analytics,84.05555555555556,1,1998,Masculino
+HR,50.75,1,1982,Masculino
+Operations,63.111111111111114,1,1998,Masculino
+Sales & Marketing,50.5,1,1966,Femenino
+Sales & Marketing,48.5,0,1999,Femenino
+Sales & Marketing,49.333333333333336,0,1999,Masculino
+R&D,87.0,0,1977,Masculino
+Legal,58.09090909090909,0,1984,Masculino
+R&D,88.0,0,1986,Femenino
+HR,51.46153846153846,1,1983,Masculino
+Finance,57.0,0,1967,Masculino
+Legal,58.333333333333336,0,1977,Masculino
+R&D,87.75,0,1985,Masculino
+Legal,59.0,0,1991,Femenino
+Finance,58.666666666666664,0,1997,Femenino
+Technology,80.25,0,1998,Femenino
+HR,48.857142857142854,0,1972,Masculino
+Finance,60.333333333333336,0,1972,Masculino
+Analytics,84.25,1,1968,Masculino
+Operations,59.5,0,1999,Masculino
+R&D,83.5,2,1991,Femenino
+Procurement,70.2,1,1966,Masculino
+HR,50.214285714285715,2,1975,Femenino
+Finance,60.57142857142857,0,1980,Masculino
+Finance,59.5,0,1972,Femenino
+Operations,58.0,0,2000,Masculino
+HR,51.666666666666664,0,1967,Femenino
+HR,57.166666666666664,1,1969,Femenino
+Operations,59.888888888888886,0,1997,Femenino
+Finance,59.25,0,1998,Femenino
+Technology,81.0,1,1998,Masculino
+R&D,85.0,0,1994,Femenino
+Legal,58.0,0,1993,Femenino
+Legal,60.0,0,1987,Femenino
+Analytics,88.0,0,1987,Femenino
+R&D,86.5,0,1975,Masculino
+R&D,86.0,1,1997,Masculino
+Finance,58.25,0,1979,Femenino
+Finance,59.5,0,1980,Femenino
+Finance,58.5,0,1968,Masculino
+Finance,62.0,0,1977,Masculino
+Analytics,84.0,1,1998,Femenino
+R&D,87.0,0,1976,Masculino
+R&D,94.0,1,1998,Masculino
+Sales & Marketing,50.61467889908257,6,1990,Femenino
+Analytics,84.79850746268657,14,1994,Masculino
+R&D,84.38461538461539,1,1988,Masculino
+Operations,60.40659340659341,19,1988,Masculino
+Operations,59.76712328767123,6,1984,Masculino
+Finance,59.44444444444444,0,1986,Masculino
+Operations,60.36,1,1968,Masculino
+Sales & Marketing,50.33849557522124,34,1992,Masculino
+Technology,79.44,12,1991,Masculino
+HR,50.333333333333336,0,1966,Masculino
+Procurement,69.1875,2,1975,Femenino
+Procurement,70.25,2,1969,Femenino
+HR,52.32,2,1995,Masculino
+Sales & Marketing,50.16883116883117,24,1985,Masculino
+Procurement,70.48571428571428,9,1995,Masculino
+Analytics,84.35714285714286,14,1995,Masculino
+Sales & Marketing,50.39473684210526,1,1984,Femenino
+Sales & Marketing,50.433526011560694,26,1993,Masculino
+Operations,59.83695652173913,7,1983,Femenino
+Analytics,84.20422535211267,12,1991,Masculino
+HR,48.8,0,1978,Masculino
+Sales & Marketing,50.6530612244898,18,1984,Masculino
+Finance,62.166666666666664,1,1965,Masculino
+Operations,60.45945945945946,15,1988,Femenino
+Operations,61.18072289156626,10,1984,Femenino
+Analytics,84.68181818181819,3,1983,Masculino
+Technology,80.58,13,1989,Masculino
+Technology,80.01980198019803,9,1990,Masculino
+Analytics,84.59333333333333,8,1993,Masculino
+Sales & Marketing,49.635327635327634,18,1989,Masculino
+Finance,60.064516129032256,3,1991,Masculino
+Technology,80.21428571428571,5,1995,Femenino
+Technology,80.0721649484536,11,1991,Femenino
+Operations,60.080357142857146,8,1982,Masculino
+Finance,61.72727272727273,1,1996,Masculino
+Sales & Marketing,49.80102040816327,16,1982,Masculino
+Procurement,69.42857142857143,3,1978,Femenino
+Sales & Marketing,50.28030303030303,42,1990,Masculino
+HR,49.357142857142854,1,1981,Masculino
+Legal,59.142857142857146,0,1975,Masculino
+Operations,60.05882352941177,10,1982,Femenino
+Analytics,82.76923076923077,0,1971,Masculino
+Procurement,70.53968253968254,16,1991,Femenino
+Technology,80.22727272727273,6,1980,Masculino
+Procurement,69.70238095238095,7,1987,Masculino
+Sales & Marketing,50.01639344262295,3,1985,Femenino
+Technology,80.08695652173913,6,1996,Masculino
+Operations,60.54545454545455,8,1983,Masculino
+Sales & Marketing,50.39204545454545,11,1981,Masculino
+Technology,78.95833333333333,1,1979,Femenino
+Technology,79.84615384615384,7,1995,Masculino
+Sales & Marketing,49.30508474576271,3,1995,Femenino
+Technology,79.29268292682927,3,1979,Masculino
+Procurement,71.13513513513513,11,1984,Masculino
+Sales & Marketing,49.75233644859813,14,1995,Masculino
+Sales & Marketing,50.00306748466258,29,1988,Masculino
+Technology,80.14285714285714,0,1968,Femenino
+Sales & Marketing,50.12101910828026,10,1980,Masculino
+HR,48.714285714285715,0,1981,Femenino
+Procurement,70.92792792792793,8,1991,Masculino
+Procurement,70.58928571428571,12,1993,Masculino
+Operations,60.13333333333333,8,1994,Femenino
+Sales & Marketing,49.45333333333333,4,1988,Femenino
+HR,50.333333333333336,0,1968,Femenino
+Operations,61.08870967741935,12,1994,Masculino
+Procurement,70.6,1,1976,Masculino
+Analytics,86.33333333333333,0,1970,Masculino
+Sales & Marketing,50.55128205128205,7,1974,Masculino
+HR,51.82608695652174,3,1994,Femenino
+Sales & Marketing,48.64705882352941,2,1982,Femenino
+Technology,80.24074074074075,3,1988,Femenino
+Sales & Marketing,49.81818181818182,6,1993,Femenino
+Sales & Marketing,49.8,0,1968,Masculino
+Sales & Marketing,49.34710743801653,4,1978,Masculino
+Procurement,70.5813953488372,4,1980,Masculino
+Finance,59.0,0,1986,Femenino
+HR,49.4375,0,1992,Femenino
+Procurement,69.77586206896552,13,1989,Masculino
+Procurement,69.25925925925925,2,1972,Femenino
+Sales & Marketing,50.146341463414636,4,1989,Femenino
+Technology,80.0,1,1969,Femenino
+Procurement,69.11538461538461,0,1996,Femenino
+Technology,79.75757575757575,17,1992,Masculino
+Technology,77.5,0,1971,Femenino
+HR,49.47826086956522,2,1989,Femenino
+HR,50.2,1,1986,Masculino
+Legal,59.666666666666664,0,1967,Masculino
+Analytics,84.73076923076923,5,1986,Masculino
+Procurement,72.85,2,1976,Femenino
+R&D,84.73333333333333,1,1990,Masculino
+Procurement,70.61904761904762,2,1975,Masculino
+Operations,60.916666666666664,4,1973,Masculino
+HR,50.4054054054054,2,1991,Masculino
+Sales & Marketing,49.6,1,1972,Masculino
+Sales & Marketing,50.21052631578947,0,1974,Femenino
+Technology,80.65625,2,1972,Masculino
+Procurement,70.546875,14,1986,Femenino
+Technology,80.48648648648648,7,1989,Femenino
+Technology,80.34782608695652,14,1988,Masculino
+HR,50.07692307692308,0,1987,Femenino
+Technology,79.52173913043478,1,1968,Masculino
+Technology,79.76086956521739,5,1992,Femenino
+R&D,87.22222222222223,1,1983,Masculino
+Analytics,84.76335877862596,13,1990,Masculino
+Analytics,84.62222222222222,7,1984,Masculino
+R&D,84.24242424242425,0,1993,Masculino
+Procurement,70.26373626373626,18,1989,Femenino
+Technology,80.03658536585365,11,1990,Femenino
+Finance,61.078947368421055,2,1995,Masculino
+Sales & Marketing,50.36363636363637,0,1968,Femenino
+Sales & Marketing,50.64705882352941,4,1969,Masculino
+Procurement,70.73333333333333,8,1995,Femenino
+HR,50.266666666666666,0,1977,Masculino
+Analytics,85.27272727272727,1,1995,Femenino
+Analytics,85.0,2,1978,Masculino
+Sales & Marketing,50.06578947368421,8,1971,Masculino
+HR,49.54545454545455,1,1965,Masculino
+HR,50.774193548387096,3,1994,Masculino
+Technology,79.96078431372548,5,1977,Masculino
+Finance,60.94736842105263,3,1990,Femenino
+Procurement,71.94285714285714,11,1986,Masculino
+Finance,64.66666666666667,0,1966,Masculino
+Finance,60.03508771929825,3,1990,Masculino
+Technology,79.41379310344827,4,1971,Masculino
+Operations,61.625,3,1969,Femenino
+Procurement,69.3,0,1978,Masculino
+Procurement,70.575,12,1993,Femenino
+Procurement,71.16666666666667,1,1969,Masculino
+Analytics,84.33333333333333,2,1985,Masculino
+HR,49.75,1,1973,Masculino
+Finance,60.5,0,1975,Femenino
+HR,50.73809523809524,4,1989,Masculino
+Sales & Marketing,50.92307692307692,4,1998,Masculino
+Operations,60.875,4,1970,Masculino
+Analytics,85.0,0,1990,Femenino
+Finance,60.4375,2,1984,Masculino
+Procurement,70.74698795180723,12,1987,Femenino
+Sales & Marketing,49.73076923076923,2,1981,Femenino
+R&D,84.3125,1,1984,Masculino
+Procurement,69.22222222222223,0,1968,Masculino
+R&D,85.72727272727273,0,1995,Masculino
+Operations,61.5,1,1965,Femenino
+Finance,59.6,0,1981,Masculino
+Technology,78.9,0,1970,Femenino
+Sales & Marketing,50.666666666666664,0,1970,Femenino
+Procurement,67.4,0,1998,Femenino
+R&D,84.33333333333333,0,1982,Masculino
+Procurement,70.5,5,1977,Femenino
+Sales & Marketing,49.89108910891089,5,1992,Femenino
+Sales & Marketing,51.26086956521739,4,1970,Masculino
+HR,49.714285714285715,0,1970,Femenino
+HR,49.125,0,1979,Masculino
+Operations,59.172413793103445,1,1969,Masculino
+Technology,80.0,0,1980,Femenino
+Technology,79.65217391304348,3,1983,Femenino
+Sales & Marketing,50.94074074074074,12,1996,Masculino
+Legal,59.2,0,1995,Masculino
+Finance,59.07692307692308,1,1995,Femenino
+Legal,59.80952380952381,1,1988,Masculino
+Procurement,69.24489795918367,2,1984,Femenino
+Sales & Marketing,53.125,2,1971,Femenino
+Technology,81.27777777777777,2,1967,Masculino
+Finance,58.6,0,1975,Masculino
+Legal,59.5625,1,1986,Masculino
+Sales & Marketing,49.89473684210526,1,1978,Femenino
+Finance,58.4,0,1987,Femenino
+Analytics,83.84,0,1980,Masculino
+Technology,79.58,5,1983,Masculino
+Operations,60.93333333333333,1,1970,Femenino
+HR,48.142857142857146,0,1971,Masculino
+Procurement,70.42857142857143,6,1977,Masculino
+Analytics,84.33333333333333,0,1994,Femenino
+Procurement,70.25,3,1980,Femenino
+Procurement,69.65625,1,1996,Masculino
+HR,49.166666666666664,0,1977,Femenino
+Finance,59.827586206896555,1,1987,Masculino
+Sales & Marketing,50.07142857142857,0,1969,Femenino
+Finance,64.2,1,1996,Femenino
+Analytics,85.0952380952381,1,1993,Femenino
+Technology,80.0,1,1974,Femenino
+HR,49.8,1,1973,Femenino
+HR,49.73529411764706,4,1987,Masculino
+Technology,79.4,0,1974,Masculino
+Operations,60.32258064516129,2,1973,Femenino
+Legal,60.4,0,1966,Masculino
+HR,49.666666666666664,1,1992,Masculino
+Technology,79.38461538461539,3,1996,Femenino
+Legal,59.4,1,1969,Masculino
+Analytics,83.42857142857143,1,1973,Masculino
+Legal,59.86363636363637,0,1990,Masculino
+Procurement,70.25925925925925,1,1972,Masculino
+Technology,79.35714285714286,2,1967,Femenino
+HR,50.05555555555556,1,1995,Femenino
+Legal,60.5,0,1985,Masculino
+Analytics,84.33333333333333,1,1991,Femenino
+Operations,59.55,0,1968,Femenino
+Analytics,85.6,2,1979,Masculino
+Technology,79.0,1,1977,Femenino
+Legal,58.833333333333336,1,1965,Masculino
+Sales & Marketing,50.92857142857143,2,1980,Femenino
+Analytics,83.75,0,1984,Femenino
+HR,50.04761904761905,1,1985,Masculino
+HR,50.583333333333336,1,1966,Femenino
+Analytics,83.0,0,1986,Femenino
+Sales & Marketing,50.29032258064516,2,1996,Femenino
+Finance,58.90909090909091,1,1991,Femenino
+HR,50.083333333333336,0,1991,Femenino
+Analytics,83.76190476190476,0,1977,Masculino
+Procurement,71.92857142857143,2,1997,Femenino
+HR,48.13333333333333,2,1986,Femenino
+Operations,60.470588235294116,1,1965,Masculino
+Technology,80.6842105263158,2,1972,Femenino
+Technology,80.19047619047619,2,1970,Masculino
+R&D,84.5,0,1988,Femenino
+Legal,58.5,1,1974,Masculino
+Legal,59.25,0,1983,Masculino
+HR,50.0,0,1978,Femenino
+Legal,61.0,0,1972,Masculino
+Legal,59.25,0,1979,Masculino
+Analytics,85.375,0,1972,Masculino
+Operations,59.0,0,2001,Masculino
+Legal,62.0,0,1990,Femenino
+Procurement,69.1875,0,1968,Femenino
+Legal,60.166666666666664,0,1980,Masculino
+Finance,60.833333333333336,1,1982,Femenino
+HR,51.666666666666664,0,1985,Femenino
+Finance,59.333333333333336,0,1971,Femenino
+R&D,84.57142857142857,2,1992,Masculino
+HR,49.857142857142854,0,1970,Masculino
+HR,49.666666666666664,0,1971,Femenino
+Finance,60.0,0,1971,Masculino
+Technology,80.04761904761905,1,1969,Masculino
+Sales & Marketing,49.5,0,1972,Femenino
+Legal,59.5,0,1970,Masculino
+Procurement,69.73684210526316,1,1997,Masculino
+Analytics,85.4,1,1967,Masculino
+HR,50.0,1,1979,Femenino
+Legal,63.25,1,1970,Femenino
+Finance,59.2,0,1976,Masculino
+Finance,63.666666666666664,0,1983,Femenino
+R&D,87.66666666666667,0,1996,Masculino
+HR,52.142857142857146,1,1968,Masculino
+Legal,59.0,0,1980,Femenino
+Analytics,86.2,1,1969,Masculino
+Finance,60.375,0,1983,Masculino
+Finance,58.0,0,1970,Masculino
+Legal,58.6,0,1978,Masculino
+HR,48.166666666666664,0,1965,Femenino
+Analytics,84.38461538461539,0,1976,Masculino
+Legal,59.54545454545455,0,1982,Masculino
+Legal,60.75,0,1988,Femenino
+Finance,60.0,0,1999,Femenino
+Legal,59.0,0,1985,Femenino
+Legal,62.666666666666664,0,1986,Femenino
+Analytics,83.33333333333333,2,1999,Masculino
+Finance,63.0,0,1966,Femenino
+Sales & Marketing,51.833333333333336,1,1998,Femenino
+Procurement,70.0,0,1998,Masculino
+Finance,57.0,0,1984,Femenino
+Finance,62.4,1,1974,Femenino
+Sales & Marketing,47.5,0,2000,Masculino
+Finance,57.6,0,1982,Masculino
+Analytics,82.0,0,1983,Femenino
+Finance,60.0,0,1970,Femenino
+Legal,55.0,0,1979,Femenino
+Technology,82.5,0,1999,Femenino
+R&D,82.0,0,1978,Masculino
+Legal,58.5,0,1983,Femenino
+Finance,58.0,1,1981,Femenino
+HR,47.666666666666664,0,1998,Masculino
+R&D,89.0,0,1990,Femenino
+Finance,60.5,0,1999,Masculino
+Procurement,76.0,0,2000,Masculino
+Legal,64.0,0,1982,Femenino
+Legal,56.0,0,1969,Femenino
+Finance,58.0,0,1965,Femenino
+Technology,77.0,0,1999,Masculino
